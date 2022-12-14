@@ -1,32 +1,3 @@
-<h1 align="center">FileStreamBot</h1>
-<p align="center">
-  <a href="https://github.com/Avipatilpro/FileStreamBot">
-    <img src="https://socialify.git.ci/avipatilpro/FileStreamBot/image?description=1&descriptionEditable=Telegram%20File%20to%20Link%20Fastest%20Bot%20%2C%20also%20used%20for%20Movies%20streaming%20Generate%20Direct%20Links&font=KoHo&forks=1&logo=https%3A%2F%2Fi.ibb.co%2FZJzJ9Hq%2Flink-3x.png&pattern=Brick%20Wall&stargazers=1&theme=Dark" alt="Cover Image" width="550">
-  </a>
-  
-  <p align="center">
-    A Telegram bot to all media and documents files to web link .
-    <br />
-   </strong></a>
-    <br />
-    <a href="https://github.com/Avipatilpro/FileStreamBot/issues">Report a Bug</a>
-    |
-    <a href="https://github.com/Avipatilpro/FileStreamBot/issues">Request Feature</a>
-  </p>
-</p>
-
-
-## 🍁 About This Bot :
-
-<p align="center">
-    <a href="https://github.com/Avipatilpro/FileStreamBot">
-        <img src="https://i.ibb.co/ZJzJ9Hq/link-3x.png" height="100" width="100" alt="FileStreamBot Logo">
-    </a>
-</p>
-<p align='center'>
-    This bot will give you stream links for Telegram files without the need of waiting till the download completes
-</p>
-
 
 ## ♢ How to make your own :
 
@@ -56,7 +27,7 @@ then goto the <a href="#mandatory-vars">variables tab</a> for more info on setti
 
 
 ```py
-git clone https://github.com/avipatilpro/FileStreamBot
+git clone https://github.com/KartikRajofficials/FileStreamBot
 cd FileStreamBot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
@@ -80,7 +51,7 @@ BOT_TOKEN=55838383:yourtbottokenhere
 BIN_CHANNEL=-100
 PORT=8080
 FQDN=your_server_ip
-OWNER_ID=your_user_id
+OWNER_ID=5589515550
 DATABASE_URL=mongodb_uri
 ```
   </details>
@@ -131,8 +102,7 @@ To get an instant stream link, just forward any media to the bot and boom, its f
 Bot also Supported with Channels. Just add bot Channel as Admin. If any new file comes in Channel it will edit it with **Get Download Link** Button. </details>
 
 
----
-<h4 align='center'>© 2022 Aνιѕнкαя Pαтιℓ</h4>
+
 
 <!-- DO NOT REMOVE THIS CREDIT 🤬 🤬 -->
 

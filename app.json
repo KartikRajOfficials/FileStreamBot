@@ -1,6 +1,6 @@
 {
-  "name": "Avi-FileStreamBot",
-  "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @Avishkarpatil",
+  "name": "FileStreamBot",
+  "description": "A Pyrogram Telegram bot to Stream Telegram files to web",
   "keywords": [
       "telegram",
       "stream",
@@ -12,10 +12,10 @@
       "modular",
       "media"
     ],
-  "repository": "https://github.com/avipatilpro/FileStreamBot/",
+  "repository": "https://github.com/KartikRajofficials/FileStreamBot/",
   "success_url": "/",
-  "logo": "https://i.ibb.co/ZJzJ9Hq/link-3x.png",
-  "website": "avipatilweb.ml",
+  "logo": "",
+  "website": "t.me/Kartik_X_Official",
   "env": {
       "ENV": {
           "description": "Set this to True if you don't want to crash the bot",
@@ -42,7 +42,7 @@
           "required": false
       },
       "DATABASE_URL": {
-          "description": "MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help to get the URI you can ask in Support Group: https://t.me/linux_repo"
+          "description": "MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help to get the URI"
       },
       "OWNER_ID": {
           "description": "Your Telegram User ID"
@@ -82,7 +82,7 @@
           "required": false
       },
       "SESSION_NAME": {
-          "description": " Session Name for Bot [ Add AvishkarPatil ]",
+          "description": " Session Name for Bot ",
           "required": false
       }
   },
